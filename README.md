@@ -1,6 +1,3 @@
-# src.palo.alto.sre.test
-Coding assignments - Sr SRE role
-
 Overview
 This repository houses code for test exercises for a SRE role in PaloAlto Networks.
 
