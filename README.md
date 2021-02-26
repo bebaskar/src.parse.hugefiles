@@ -18,6 +18,8 @@ To execute the script, run  python main.py -h
 
 <b>Sample help,</b>
 
+(studies) bdharmaraja-a01:paloAlto bdharmarajan$ python main.py -h
+
 usage: python main.py --get10MaxRequestedPage --getPercentageOfSuccessRequest --getPercentageOfNotSuccessRequest --getTop10SuccessPageRequest --getTop10UnSuccessPageRequest --get10TopHosts
 
 Analyzing server logs placed under paloAlto/logFile
