@@ -2,7 +2,7 @@
 This repository houses code for test exercises for a SRE role in PaloAlto Networks.
 
 The main directory is
-./paloAlto
+./src.palo.alto.sre.test
 
 <b>File structure,</b>
 
