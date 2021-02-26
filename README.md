@@ -7,7 +7,9 @@ The main directory is
 <b>File structure,</b>
 
 ./src.palo.alto.sre.test/logFile holds the content of server access logs
+
 ./src.palo.alto.sre.test/util file holds the helper methods related to server log parsing
+
 ./src.palo.alto.sre.test/main file is the main executable file
 
 Refer requirements.txt for Python3 packages used in the repo.
