@@ -2,15 +2,15 @@
 This repository houses code for test exercises for a SRE role in PaloAlto Networks.
 
 The main directory is
-./src.palo.alto.sre.test
+./src.palo.alto
 
 <b>File structure,</b>
 
-./src.palo.alto.sre.test/logFile holds the content of server access logs
+./src.palo.alto/logFile holds the content of server access logs
 
-./src.palo.alto.sre.test/util file holds the helper methods related to server log parsing
+./src.palo.alto/util file holds the helper methods related to server log parsing
 
-./src.palo.alto.sre.test/main file is the main executable file
+./src.palo.alto/main file is the main executable file
 
 Refer requirements.txt for Python3 packages used in the repo.
 
